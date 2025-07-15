@@ -36,14 +36,14 @@ Welcome to my world!!
 
 ### Design & Creative
 ![Figma](https://skillicons.dev/icons?i=figma)
-![Photoshop](https://skillicons.dev/icons?i=ps)
 ![Godot](https://skillicons.dev/icons?i=godot)
+![Procreate](https://skillicons.dev/icons?i=procreate)
 
 ### Marketing & Analytics
-SEO (On-page, Keyword Research)  
-Email Marketing (Mailchimp)  
-Google Analytics (GA4)  
-Google Tag Manager (GTM)  
+SEO
+Email Marketing
+Google Analytics (GA4)
+Google Tag Manager (GTM)
 Customer Journey Mapping
 
 
