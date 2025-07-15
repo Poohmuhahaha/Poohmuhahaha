@@ -2,7 +2,7 @@
 
 Welcome to my world!!
 
-## 👤 About me
+## About me
 **Harbour.Space @UTCC Institute, Bangkok**  
 *BBA in Digital Marketing* | 2024 – 2027 (Expected)  
 – Full scholarship recipient (Upgrading Thailand Project)  
@@ -10,7 +10,7 @@ Welcome to my world!!
 
 ---
 
-## 🌟 Highlight Projects
+## Highlight Projects
 
 | Project | Description | Role / Skills |
 |--------|-------------|----------------|
@@ -25,7 +25,7 @@ Welcome to my world!!
 
 ## 🛠️ Tech Stack
 
-### 💻 Development
+### Development
 ![Python](https://skillicons.dev/icons?i=py)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -34,23 +34,22 @@ Welcome to my world!!
 ![Django](https://skillicons.dev/icons?i=django)
 ![Astro](https://skillicons.dev/icons?i=astro)
 
-### 🎨 Design & Creative
+### Design & Creative
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Photoshop](https://skillicons.dev/icons?i=ps)
 ![Godot](https://skillicons.dev/icons?i=godot)
-🖼️ Pixel Art, 2D Animation, Visual Storytelling
 
-### 📈 Marketing & Analytics
-📊 SEO (On-page, Keyword Research)  
-✉️ Email Marketing (Mailchimp)  
-📈 Google Analytics (GA4)  
-🎯 Google Tag Manager (GTM)  
-🗺️ Customer Journey Mapping
+### Marketing & Analytics
+SEO (On-page, Keyword Research)  
+Email Marketing (Mailchimp)  
+Google Analytics (GA4)  
+Google Tag Manager (GTM)  
+Customer Journey Mapping
 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Poohmuhahaha&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
@@ -58,9 +57,9 @@ Welcome to my world!!
 </p>
 
 ---
-## ✨ Portfolio / Works
+## Portfolio / Works
 
-🔗 Behance: [behance.net/ce21f071](https://www.behance.net/ce21f071)  
-🎨 Instagram: [@aubaib.pixart](https://www.instagram.com/aubaib.pixart)  
-🌌 Personal Project: [LumaSphere](https://github.com/Poohmuhahaha/LumaSphere_fontend)
+Behance: [behance.net/ce21f071](https://www.behance.net/ce21f071)  
+Instagram: [@aubaib.pixart](https://www.instagram.com/aubaib.pixart)  
+Personal Project: [LumaSphere](https://github.com/Poohmuhahaha/LumaSphere_fontend)
 
