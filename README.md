@@ -5,8 +5,8 @@ Welcome to my world!!
 ## About me
 **Harbour.Space @UTCC Institute, Bangkok**  
 *BBA in Digital Marketing* | 2024 – 2027 (Expected)  
-– Full scholarship recipient (Upgrading Thailand Project)  
-– Focus: Data-driven marketing, startup innovation, experiential learning 
+- Full scholarship recipient (Upgrading Thailand Project)
+- Focus: Data-driven marketing, startup innovation, experiential learning 
 
 ---
 
