@@ -39,11 +39,11 @@ Welcome to my world!!
 ![Godot](https://skillicons.dev/icons?i=godot)
 
 ### Marketing & Analytics
-SEO
-Email Marketing
-Google Analytics (GA4)
-Google Tag Manager (GTM)
-Customer Journey Mapping
+- SEO
+- Email Marketing
+- Google Analytics (GA4)
+- Google Tag Manager (GTM)
+- Customer Journey Mapping
 
 
 ---
