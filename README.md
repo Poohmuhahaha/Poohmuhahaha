@@ -37,7 +37,6 @@ Welcome to my world!!
 ### Design & Creative
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Godot](https://skillicons.dev/icons?i=godot)
-![Procreate](https://skillicons.dev/icons?i=procreate)
 
 ### Marketing & Analytics
 SEO
