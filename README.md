@@ -24,7 +24,29 @@ Welcome to my world!!
 ---
 
 ## 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=py,js,html,css,react,nextjs,django,figma,ps)
+
+### 💻 Development
+![Python](https://skillicons.dev/icons?i=py)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Django](https://skillicons.dev/icons?i=django)
+![Astro](https://skillicons.dev/icons?i=astro)
+
+### 🎨 Design & Creative
+![Figma](https://skillicons.dev/icons?i=figma)
+![Photoshop](https://skillicons.dev/icons?i=ps)
+![Godot](https://skillicons.dev/icons?i=godot)
+🖼️ Pixel Art, 2D Animation, Visual Storytelling
+
+### 📈 Marketing & Analytics
+📊 SEO (On-page, Keyword Research)  
+✉️ Email Marketing (Mailchimp)  
+📈 Google Analytics (GA4)  
+🎯 Google Tag Manager (GTM)  
+🗺️ Customer Journey Mapping
+
 
 ---
 
