@@ -60,5 +60,3 @@ Welcome to my world!!
 
 Behance: [behance.net/ce21f071](https://www.behance.net/ce21f071)  
 Instagram: [@aubaib.pixart](https://www.instagram.com/aubaib.pixart)  
-Personal Project: [LumaSphere](https://github.com/Poohmuhahaha/LumaSphere_fontend)
-
