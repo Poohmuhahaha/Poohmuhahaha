@@ -1,89 +1,59 @@
-# This is a GitHub Markdown
+# HI, I'm Pooh 🐸
 
+> **Aspiring Solution Engineer | Digital Marketing & GeoAI Enthusiast**
 
-
-# HI, I'm Pooh 👋🐸
-
-
-
-Welcome to my world!!
-
-
-
-## About me
-
-**Harbour.Space @UTCC Institute, Bangkok**  
-
-*BBA in Digital Marketing* | 2024 – 2027 (Expected)  
-
-- Full scholarship recipient (Upgrading Thailand Project)
-
-- Focus: Data-driven marketing, startup innovation, experiential learning 
-
-
+I help businesses unlock hidden value from their data through Location Intelligence, GeoAI, and user-centric solution design.
 
 ---
 
+## About Me
 
+**Harbour.Space @UTCC Institute, Bangkok**
+*BBA in Digital Marketing* | Expected Graduation: 2027
+- **Scholarship:** Full Scholarship (Upgrading Thailand Project)
+- **Focus:** Geospatial Data Science, Web Development, and Technical SEO
+
+---
 
 ## Highlight Projects
 
-
-
-| Project | Description | Role / Skills |
-
-|--------|-------------|----------------|
-
-| **LumaSphere** | AI-powered knowledge hub with user login, content organization, and search features | Full-stack Dev, UI Design, Django, Next.js, REST API |
-
-| **Aesthetics Economics Thesis** | Research on how design affects economic outcomes using optimization & data analysis | Researcher, UX Analysis, Data Modeling |
-
-| **Aubaib.Pixart Campaign** | Instagram & branding campaign for original pixel art character | Art Direction, Marketing Strategy, GA4, Ads |
-
-| **Godot Game Project** | Designed & coded 2D game systems using Godot Engine | Game Designer, Logic Programming |
-
-| **News Website Prototype** | Designed and developed a modern, accessible news platform from scratch | UX/UI Designer, Web Dev (Astro, HTML/CSS) |
-
-
-
-
+| Project | Description | Role / Tech Stack |
+|:---|:---|:---|
+| **Bangkok Traffic Optimization** | **GeoAI Pipeline:** Engineered a Python pipeline (OSmnX) for 173k+ nodes. Integrated TomTom API for real-time congestion data and applied NSGA-II (Multi-Objective Optimization) to solve routing problems (Time vs. Fuel). | **GIS Developer & Data Analyst**<br/>`Python` `OSmnX` `TomTom API` `SQLite` `Pymoo` `NSGA-II` |
+| **AUBAIB.SPACE** | **Digital Wellness Platform:** Built a responsive asset marketplace and productivity tools (Focus Timer/Journal). Achieved high Core Web Vitals scores through code splitting and efficient asset loading. | **Full-stack Developer**<br/>`Next.js` `Tailwind CSS` `Lottie` `Vite` `SEO (Schema)` |
 
 ---
 
+## Professional Experience
 
+**The Ascott International Management Thailand (AIMT)**
+*Sales and Marketing Trainee (Cluster Team) | Sep 2025 – Nov 2025*
+- **Technical SEO & Analytics:** Conducted website audits and acted as an internal SEO consultant to align web performance with business goals.
+- **Data Analysis:** Analyzed market opportunities for 10 key nationalities using THN and Cendyn tools.
+- **Platform Management:** Managed Line OA end-to-end, including Rich Menus and targeted broadcast campaigns.
 
-## 🛠️ Tech Stack
+---
 
+## Tech Stack
 
+### Geospatial & Data Science
+![Python](https://skillicons.dev/icons?i=py) ![Pandas](https://skillicons.dev/icons?i=pandas)
+- **Libs:** OSmnX, Geopandas, Shapely, Pymoo (NSGA-II)
+- **Tools:** QGIS, TomTom API, SQLite
 
-### Development
+### Web Development
+![Next.js](https://skillicons.dev/icons?i=nextjs) ![Astro](https://skillicons.dev/icons?i=astro) ![Django](https://skillicons.dev/icons?i=django) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+- **Performance:** Core Web Vitals Optimization
 
-![Python](https://skillicons.dev/icons?i=py)
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-
-![HTML](https://skillicons.dev/icons?i=html)
-
-![CSS](https://skillicons.dev/icons?i=css)
-
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-
-![Django](https://skillicons.dev/icons?i=django)
-
-![Astro](https://skillicons.dev/icons?i=astro)
-
-
-
-### Design & Creative
-
+### Digital Marketing & Tools
 ![Figma](https://skillicons.dev/icons?i=figma)
+- **Analytics:** GA4, GTM, Google Search Console
+- **SEO:** Technical SEO, Schema/Indexing, CRO
+- **CRM:** HubSpot
 
-![Godot](https://skillicons.dev/icons?i=godot)
+---
 
+## Connect with me
 
-
-### Marketing & Analytics
-
-- SEO
-
-- Email Marketing
+- **LinkedIn:** [linkedin.com/in/phuwadon-thontra](https://linkedin.com/in/phuwadon-thontra)
+- **Email:** thontrapoowadol@gmail.com
