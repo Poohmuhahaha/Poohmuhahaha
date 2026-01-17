@@ -37,19 +37,13 @@ I help businesses unlock hidden value from their data through Location Intellige
 ## Tech Stack
 
 ### Geospatial & Data Science
-![Python](https://skillicons.dev/icons?i=py) ![Pandas](https://skillicons.dev/icons?i=pandas)
-- **Libs:** OSmnX, Geopandas, Shapely, Pymoo (NSGA-II)
-- **Tools:** QGIS, TomTom API, SQLite
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![OSMnX](https://img.shields.io/badge/OSMnX-000000?style=for-the-badge&logo=python&logoColor=white) ![Geopandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white) ![Shapely](https://img.shields.io/badge/Shapely-FF4F00?style=for-the-badge&logo=python&logoColor=white) ![Pymoo (NSGA-II)](https://img.shields.io/badge/Pymoo_(NSGA--II)-007ACC?style=for-the-badge&logo=python&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![TomTom API](https://img.shields.io/badge/TomTom_API-DF1B12?style=for-the-badge&logo=tomtom&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Web Development
-![Next.js](https://skillicons.dev/icons?i=nextjs) ![Astro](https://skillicons.dev/icons?i=astro) ![Django](https://skillicons.dev/icons?i=django) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-- **Performance:** Core Web Vitals Optimization
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ### Digital Marketing & Tools
-![Figma](https://skillicons.dev/icons?i=figma)
-- **Analytics:** GA4, GTM, Google Search Console
-- **SEO:** Technical SEO, Schema/Indexing, CRO
-- **CRM:** HubSpot
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white) ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4585F4?style=for-the-badge&logo=google-search-console&logoColor=white) ![Technical SEO](https://img.shields.io/badge/Technical_SEO-FFD700?style=for-the-badge&logo=google&logoColor=black) ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
 ---
 
