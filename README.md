@@ -1,4 +1,4 @@
-# HI, I'm Pooh 🐸
+# HI, I'm Pooh
 
 > **Aspiring Solution Engineer | Digital Marketing & GeoAI Enthusiast**
 
