@@ -5,8 +5,5 @@
 
 <h1 align="center">
 HEEEEEELLOOOO!!!
-</h1>
-
-<h2>
 Nice to meet you krubbbb
-</h2>
+</h1>
